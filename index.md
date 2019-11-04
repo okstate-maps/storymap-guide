@@ -7,7 +7,9 @@ Created by [OSU Maps and Spatial Data](https://info.library.okstate.edu/map-room
 - Introduction 
 - *[Story Mapping]*
 - - Getting Started
-- - more sub delicious
+- - Title Page
+- - Adding Content
+- - - Paragraph
 - Conclusion
 - Further Reading/Resources
 
@@ -21,11 +23,12 @@ Created by [OSU Maps and Spatial Data](https://info.library.okstate.edu/map-room
 
 ![create](images/create.PNG)
 
-3. In the new page that opens, add a title, and introduction and your name or department. The circle with two arrows can be used to change the placement of the title section.
+#### Title Page
+1. In the new page that opens, add a title, and introduction and your name or department. The circle with two arrows can be used to change the placement of the title section.
 
 ![Title](images/title.PNG)
 
-4. If you have a certain image or video you would like to display as part of the title, you can select *Add image* or *Add video*
+2. If you have a certain image or video you would like to display as part of the title, you can select *Add image* or *Add video*
 
 ![Add media](images/add.PNG)
 
@@ -37,7 +40,26 @@ Created by [OSU Maps and Spatial Data](https://info.library.okstate.edu/map-room
 
 ![Focal point](images/focus.PNG)
 
-#### More Sub Delicious
+3. Once you're satisfied with your title page, scroll down. Here you will see an area where you can add content.
+
+![Blank area for content](images/scroll.PNG)
+
+#### Adding Content
+Next, we will go through each individual content type.
+##### Paragraph
+##### Heading
+##### Subheading
+##### Bulleted list
+##### Numbered list
+##### Quote
+##### Button
+##### Separator
+##### Image
+##### Map
+##### Video
+##### Embeded
+##### Sidecar
+##### Slideshow
 
 ## Conclusion
 
