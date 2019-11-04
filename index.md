@@ -45,21 +45,120 @@ Created by [OSU Maps and Spatial Data](https://info.library.okstate.edu/map-room
 ![Blank area for content](images/scroll.PNG)
 
 #### Adding Content
-Next, we will go through each individual content type.
+Next, we will go through each individual content type. For each of the following items, simply click the *add* icon and select the appropriate item.
+
+![Add icon](images/plus.PNG)
+
+![Features](images/features.PNG)
+
 ##### Paragraph
+1. Select *Paragraph*.
+2. Simply type the paragraph you wish to include.
+
+![Paragraph](images/para.PNG)
+
+3. You can change the appearance of individual items by highlighting them and selecting certain options.
+
+![Highlight](images/para.PNG)
+
+4. To make a word of phrase **bold**, select the **B**. 
+
+![Bold](images/bold.PNG)
+
+5. To *italicize* something, select the *I*.
+
+![italicize](images/ital.PNG)
+
+6. You can also make a word or phrase into a link. Select the *link* icon and then enter the URL.
+
+![Link](images/link.PNG)
+
+7. You can make a paragraph into a *heading* by selecting the large *Tt* icon.
+
+![Paragraph to heading](images/bigTt.PNG)
+
+8. You can change it to a subheading by selecting the smaller *Tt* icon.
+
+![Paragraph to Subheading](images/subtitle.PNG)
+
+9. If you decide you want the paragraph to be a bulleted list item, select the *bullet* icon.
+
+![bulleted list item](images/bullet.PNG)
+
+10. Select the *ordered list* icon to turn it into an ordered list item. 
+
+![ordered list item](images/order.PNG)
+
+11. The last option here is to turn the paragraph into a quote. Select the *"* icon.
+
+![paragraph to quote](images/quote.PNG)
+
 ##### Heading
+1. Select *Heading*.
+2. Type your desired heading.
+
+![Heading](images/head.PNG)
+
 ##### Subheading
+1. Select *Subheading*.
+2. Type your desired subheading.
+
+![Subheading](images/sub.PNG)
+
 ##### Bulleted list
+1. Select *Bulleted list*.
+2. Type your desired first bullet list item.
+3. Hit *enter* to create a new bullet list item.
+
+![Bulleted list](images/blist.PNG)
+
 ##### Numbered list
+1. Select *Numbered list*.
+2. Type your desired first numbered list item.
+3. Hit *enter* to create a new numbered list item.
+
+![Numbered list](images/nlist.PNG)
+
 ##### Quote
+1. Select *Quote*.
+2. Type the quote. 
+
+![Quote](images/quotes.PNG)
+
 ##### Button
+1. Select *Button*.
+2. Type to text you want to appear on the button.
+3. Type the URL you want the button to navigate to.
+
+![Button](images/button.PNG)
+
+4. To delete, click the *trashcan* icon.
+
+![Trashcan icon](images/trash.PNG)
+
 ##### Separator
+1. Select *Separator*.
+
+![separator](images/sep.PNG)
+
+2. You can delete separators just like buttons.
 ##### Image
+1. Select *Image*.
+2. Choose your desired image. 
+3. Add a caption.
+
+![caption for image](images/cap.PNG)
+
 ##### Map
+1. Select *Map*.
 ##### Video
+1. Select *Video*.
 ##### Embeded
+1. Select *Embeded*.
 ##### Sidecar
+1. Select *Sidecar*.
 ##### Slideshow
+1. Select *Slideshow*.
 
 ## Conclusion
 
