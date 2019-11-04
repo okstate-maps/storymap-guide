@@ -10,6 +10,19 @@ Created by [OSU Maps and Spatial Data](https://info.library.okstate.edu/map-room
 - - Title Page
 - - Adding Content
 - - - Paragraph
+- - - Heading
+- - - Subheading
+- - - Bulleted list
+- - - Numbered list
+- - - Quote
+- - - Button
+- - - Separator
+- - - Image
+- - - Map
+- - - Video
+- - - Embeded
+- - - Sidecar
+- - - Slideshow
 - Conclusion
 - Further Reading/Resources
 
@@ -148,6 +161,22 @@ Next, we will go through each individual content type. For each of the following
 3. Add a caption.
 
 ![caption for image](images/cap.PNG)
+
+4. You can change the position and size of the picture by selecting different option. 
+
+![media options](images/options.PNG)
+
+5. If you wish to have writing beside the image, select *float*.
+
+![Float](images/float.PNG)
+
+6. If you wish to change the size, you can select *Small, Medium or Large*. *Small* is the default setting.
+
+![Small image](images/small.PNG)
+
+7. You can add alternative text, by selecting *Properties* and typing in the desired text. Click *Save*.
+
+![alternative text](images/alt.PNG)
 
 ##### Map
 1. Select *Map*.
