@@ -292,7 +292,7 @@ Next, we will go through each individual content type. For each of the following
 2. Paste in the iframe code or link to the desired video.
 3. Click *Save*
 
-![link](images/link.PNG)
+![link](images/linklink.PNG)
 
 4. Your video will appear on the story map. 
 
