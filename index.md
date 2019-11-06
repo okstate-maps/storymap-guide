@@ -278,6 +278,15 @@ Next, we will go through each individual content type. For each of the following
 
 ##### Video
 1. Select *Video*.
+2. Paste in the iframe code or link to the desired video.
+3. Click *Save*
+
+![video link](images/video.PNG)
+
+4. Your video will appear on the story map. 
+
+![added video](images/addvideo.PNG)
+
 ##### Embeded
 1. Select *Embeded*.
 ##### Sidecar
