@@ -300,8 +300,46 @@ Next, we will go through each individual content type. For each of the following
 
 ##### Sidecar
 1. Select *Sidecar*.
+2. Go through the explanation slides that tell you what a sidecar is and click *Done*.
+
+![sidecar explained](images/sidecar.PNG)
+
+3. Add the desired text or features on the left hand side.
+4. Select the desired image, video or map on the right hand side.
+
+![sidecar](images/sidecar2.PNG)
+
+![sidecar](images/sidecar3.PNG)
+
+5. You can add other slides by clicking the *+* icon in the bottom right hand side of the screen.
+
+![new slide](images/newslide.PNG)
+
+6. Add as many slides as you wish. They can be reordered in the bottom pannel.
+
+![reorder](images/reorder.PNG)
+
 ##### Slideshow
 1. Select *Slideshow*.
+2. Go through the explanation slides that tell you what a slideshow is and click *Done*.
+
+![slideshow explained](images/slideshow.PNG)
+
+3. Add a heading and subheading for the slideshow. You can change the position of the heading by clicking the arrows on the title box.
+
+![slideshow title](images/slideshow2.PNG)
+
+4. You can add background media or change the background color. 
+
+![background](images/background.PNG)
+
+5. You can add other slides by clicking the *+* icon in the bottom right hand side of the screen.
+
+![new slide](images/newslide.PNG)
+
+6. Add as many slides as you wish. They can be reordered in the bottom pannel.
+
+![reorder](images/reorder.PNG)
 
 ## Conclusion
 
