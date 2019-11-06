@@ -110,7 +110,7 @@ Next, we will go through each individual content type. For each of the following
 1. Select *Heading*.
 2. Type your desired heading.
 
-![Heading](images/head.PNG)
+![Heading](images/heading.PNG)
 
 ##### Subheading
 1. Select *Subheading*.
