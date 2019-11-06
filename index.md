@@ -212,6 +212,52 @@ Next, we will go through each individual content type. For each of the following
 
 ![Hover over line](images/lineh.PNG)
 
+7. You can also select *Draw a line freehand*. Draw your desired line on the map, but keep in mind that the line will look slightly different at the end. The rest of the steps are the same for points. If, however, you wish to modify the line, you can move the points by clicking on them and dragging them to the desired location.
+
+![Draw a line freehand](images/freehandl.PNG)
+
+![Draw freehand line on map](images/drawfreehand.PNG)
+
+![Output line](images/outputline.PNG)
+
+![Edit line](images/editline.PNG)
+
+8. You can also draw areas by selecting *Draw an area*. Place points the create the desired shape of the area by clicking where you wish the edges to be. Double click to end the area. The rest of the steps are the same for the other features. You can even edit the shap by dragging the points to the desired location.
+
+![area icon](images/areaicon.PNG)
+
+![draw an area](images/drawarea.PNG)
+
+![completed area](images/area.PNG)
+
+9. You can *Draw an area freehand* as well in the same way as a freehand line. The other steps are the same.
+
+![freehand area icon](images/freehandareaicon.PNG)
+
+![freehand area](images/freearea.PNG)
+
+![freehand area completed](images/freehanda.PNG)
+
+10. If you want, you can *Add an annotation* to the map. Click where you want the annotation and type the desired annotation.
+
+![annotation](images/annotation.PNG)
+
+![added annotation](images/ann.PNG)
+
+11. If you wish to *Draw an arrow*, click the icon and select the start and end points. You can warp the arrow by moving one or more of the points.
+
+![draw arrow icon](images/drawarrow.PNG)
+
+![arrow](images/arrow.PNG)
+
+![warped arrow](images/warp.PNG)
+
+12. You can *Draw a two-headed arrow* in the exact same manner.
+
+![two headed arrow icon](images/two.PNG)
+
+![double headed arrow](images/double.PNG)
+
 ##### Video
 1. Select *Video*.
 ##### Embeded
