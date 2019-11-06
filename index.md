@@ -331,7 +331,7 @@ Next, we will go through each individual content type. For each of the following
 
 4. You can add background media or change the background color. 
 
-![background](images/background.PNG)
+![background](images/background2.PNG)
 
 5. You can add other slides by clicking the *+* icon in the bottom right hand side of the screen.
 
