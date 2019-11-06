@@ -341,9 +341,42 @@ Next, we will go through each individual content type. For each of the following
 
 ![reorder](images/reorder.PNG)
 
+#### Design
+You can change the appearance of the story map by changing the design.
+1. Click *Design*. 
+
+![tools](images/tools.PNG)
+
+2. Select your desired theme, cover style, accent color, font pairings and even upload a logo if you'd like!
+
+![design](images/design.PNG)
+
+#### Preview
+1. Click *Preview*. 
+
+![tools](images/tools.PNG)
+
+2. Go through the presentation as a reader and look for things you would like to change. Be sure to check it on phone, tablet and desktop settings!
+3. When you're done, click *Edit story*.
+
+![preview](images/preview.PNG)
+
+#### Publish
+1. Click *Publish*. 
+
+![tools](images/tools.PNG)
+
+2. Decide who you wish can view your story.
+3. Click *Publish story*.
+
+![publish](images/publish.PNG)
+
+4. If you decide to make any changes later on, you must publish those changes as well. 
+
 ## Conclusion
+Story maps are a fun and interesting way to showcase your work!
 
 ## Further Reading/Resources
-
+View the [presentation](https://storymaps.arcgis.com/stories/a246188990444be29e2835bc1c180ed6) I created for this guide. 
 
 [Return to Top](#about)
