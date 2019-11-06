@@ -258,6 +258,24 @@ Next, we will go through each individual content type. For each of the following
 
 ![double headed arrow](images/double.PNG)
 
+13. You can see all of your drawing layers in the sidebar. Here you can rename items or change the colors of layers.
+
+![layers](images/layer.PNG)
+
+![color](images/color.PNG)
+
+14. In *Settings*, you can add a legend or change the basemap.
+
+![settings](images/settings.PNG)
+
+15. When you are satisfied with your map, choose *Place map*.
+
+![place map](images/place.PNG)
+
+16. The rest of the display settings for a map are the same as for pictures.
+
+![placed map](images/placemap.PNG)
+
 ##### Video
 1. Select *Video*.
 ##### Embeded
