@@ -180,6 +180,38 @@ Next, we will go through each individual content type. For each of the following
 
 ##### Map
 1. Select *Map*.
+2. Select a previously created map, or choose *Create an express map*.
+
+![Create an express map](images/express.PNG)
+
+3. A new view opens up. Here, there are many tools that can be used to customize your map.
+
+![Drawing Layers](images/draw.PNG)
+
+4. Let's start by adding a point. Click the *Add a point* icon and click anywhere on the map to add a point. In the sidebar, you can add an image, name or description for your point and click *Done*. Hover over the point on the map to see the details you added.
+
+![point icon](images/point.PNG)
+
+![add point](images/addp.PNG)
+
+![customize point](images/customp.PNG)
+
+![hover over point for details](images/hover.PNG)
+
+5. If you're points need to be numbered to demonstrate a particular order, click the *Add numbered points* icon. The rest of the steps are the same as those for a basic point.
+
+![add numbered point](images/numpoint.PNG)
+
+![hover over numbered point](images/hovnum.PNG)
+
+6. There are two ways to draw lines. The first way to draw a line is by clicking *Draw a line*. Place a point by clicking where you want the line to start and add points along each desired line segment. When you wish to finish the line, double click where you want the line to end. The rest of the steps are the same as those for a point.
+
+![Draw a line](images/line.PNG)
+
+![Drawing a line with points](images/drawl.PNG)
+
+![Hover over line](images/lineh.PNG)
+
 ##### Video
 1. Select *Video*.
 ##### Embeded
